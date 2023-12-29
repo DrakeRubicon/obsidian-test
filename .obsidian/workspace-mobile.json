@@ -11,14 +11,11 @@
             "id": "cdffaefcbb8dd0b2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Brainstorm.canvas",
-                "viewState": {
-                  "x": -22.692307692307736,
-                  "y": 215.69230769230782,
-                  "zoom": -1.3439544012173616
-                }
+                "file": "Docs/Test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Canvas/Brainstorm.canvas",
+            "file": "Docs/Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Canvas/Brainstorm.canvas",
+            "file": "Docs/Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Canvas/Brainstorm.canvas"
+            "file": "Docs/Test.md"
           }
         }
       },
@@ -145,8 +142,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cdffaefcbb8dd0b2",
+  "active": "3eedf291ff8f8c14",
   "lastOpenFiles": [
+    "Canvas/Brainstorm.canvas",
     "Docs/Test 2.md",
     "Docs/Test.md"
   ]
