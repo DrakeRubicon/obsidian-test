@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/Test 2.md",
+                "file": "Docs/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs/Test 2.md",
+                "file": "Docs/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs/Test 2.md",
+                "file": "Docs/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs/Test 2.md"
+                "file": "Docs/Test.md"
               }
             }
           },
@@ -143,6 +143,14 @@
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "8de049effee9df0d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -162,16 +170,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "ea329c1803d1afb0",
   "lastOpenFiles": [
-    "2023-12-29.md",
     "Docs/Test 2.md",
-    "Untitled.canvas",
     "Docs/Test.md",
     "Canvas/Brainstorm.canvas",
+    "Files/Pasted image 20231229224537.png",
+    "Untitled.md",
+    "Untitled.canvas",
+    "2023-12-29.md",
     "Files",
     "Canvas",
     "Docs",

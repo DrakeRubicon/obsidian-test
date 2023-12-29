@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"f6c42991365b7bd4","x":-460,"y":-400,"width":400,"height":400,"color":"3","type":"file","file":"Files/Pasted image 20231229213355.png"},
-		{"id":"b27d487ee4005d8b","x":-460,"y":20,"width":250,"height":60,"type":"text","text":"Told you about the dragons..."}
+		{"id":"f6c42991365b7bd4","type":"file","file":"Files/Pasted image 20231229213355.png","x":-460,"y":-400,"width":400,"height":400,"color":"3"},
+		{"id":"b27d487ee4005d8b","type":"text","text":"Told you about the dragons...","x":-460,"y":20,"width":250,"height":60},
+		{"id":"e4aef048c4b2856e","x":40,"y":-400,"width":400,"height":400,"type":"file","file":"Docs/Test.md"}
 	],
 	"edges":[]
 }
