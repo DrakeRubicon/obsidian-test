@@ -11,8 +11,15 @@
             "id": "cdffaefcbb8dd0b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Brainstorm.canvas",
+                "viewState": {
+                  "x": -22.692307692307736,
+                  "y": 215.69230769230782,
+                  "zoom": -1.3439544012173616
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Canvas/Brainstorm.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Canvas/Brainstorm.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Canvas/Brainstorm.canvas"
+          }
         }
       },
       {
@@ -130,9 +141,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5b681ebf5b00d605",
-  "lastOpenFiles": []
+  "active": "cdffaefcbb8dd0b2",
+  "lastOpenFiles": [
+    "Docs/Test 2.md",
+    "Docs/Test.md"
+  ]
 }
